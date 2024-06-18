@@ -17,12 +17,13 @@
 
 </div><br/>
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/RCordeiroAlmeida">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RCordeiroAlmeida&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 
 #### Meu principal objetivo é ser um desenvolvedor FullStack completo, para alcançar essa meta estou estudando no momento:
 
+<div style="display: inline_block"><br/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
@@ -30,3 +31,4 @@
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 ">
+</div>
